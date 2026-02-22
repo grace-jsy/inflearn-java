@@ -1,4 +1,4 @@
-package Class1.ex;
+package class1.ex;
 
 public class MovieReviewMain2 {
     public static void main(String[] args) {
