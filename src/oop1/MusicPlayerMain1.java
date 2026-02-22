@@ -6,7 +6,7 @@ public class MusicPlayerMain1 {
          int volume = 0;
          boolean isOn = false;
 
-         // on
+        // on
         isOn = true;
         System.out.println("Music starts");
 
