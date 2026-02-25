@@ -6,14 +6,11 @@ public class Book {
     int page;
 
     Book() {
-        this.title = "";
-        this.author = "";
+        this("", "", 0);
     }
 
     Book(String title, String author) {
-        this.title = title;
-        this.author = author;
-        this.page = 0;
+        this(title, author, 0);
     }
 
     Book(String title, String author, int page){
